@@ -1,0 +1,6 @@
+from .categoria_prov_serializer import CategoriaProvSerializer
+from .perfil_serializer import PerfilSerializer
+from .proveedor_serializer import ProveedorSerializer
+from .servicio_serializer import ServicioSerializer
+from .tipo_servicio_serializer import TipoServicioSerializer
+from .user_serializer import UserSerializer
